@@ -1,0 +1,32 @@
+body {
+}
+
+main {
+    padding-bottom: 15em;
+}
+
+img {
+    width: 100px;
+}
+
+h2 {
+    color: greenyellow;
+}
+
+.searchWrap {
+    width: 100%;
+}
+
+.searchWrap div {
+
+}
+
+.searchBox {
+    text-align: center;
+}
+
+.inputBg {
+    width: 40%;
+    color: greenyellow;
+    background-color: rgb(49, 59, 50);
+}
